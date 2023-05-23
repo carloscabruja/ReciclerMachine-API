@@ -1,8 +1,10 @@
 {
     "python.analysis.typeCheckingMode": "basic",
     "cSpell.words": [
+        "argmax",
         "dtype",
         "fastapi",
+        "firestore",
         "keras",
         "newaxis"
     ]
